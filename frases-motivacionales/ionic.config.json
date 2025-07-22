@@ -1,0 +1,7 @@
+{
+  "name": "frases-motivacionales",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
